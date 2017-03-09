@@ -1,0 +1,4 @@
+framework:
+    component.init:
+        parameter:
+            controller: Sway\Component\Parameter\Init
